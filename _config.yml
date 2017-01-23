@@ -9,7 +9,7 @@
 title: Funt's site
 email: 
 description: the bomb
-baseurl: "funts" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: Funts
 github_username:  nfountou
